@@ -1,5 +1,12 @@
 # 💫 About Me:
-🧑‍💻 Raunak Pandey<br>🦾Aspiring DevOps Engineer<br>📍 CSE- AI undergrad @ GL Bajaj<br>🔍 Research nerd | 🏎 F1 enthusiast<br>🎯 Always curious, always learning<br>Let’s build cool stuff together �
+
+🚀 Aspiring DevOps Engineer | B.Tech CSE (AI)
+
+Passionate about building scalable, automated, and observable systems. Hands-on experience with Linux, Docker, AWS, GitHub Actions, Prometheus, Grafana, and PostgreSQL. Built and deployed projects focused on monitoring, automation, and cloud infrastructure, including a real-time observability platform.
+
+Currently exploring Kubernetes, Terraform, and GitOps while strengthening my cloud and DevOps expertise.
+
+Open to DevOps, Cloud, SRE, and Platform Engineering opportunities.
 
 
 ## 🌐 Socials:
